@@ -20,7 +20,8 @@ We might also try making another simple game environment and use Q-Learning to c
 
 ## The Motivation:
 
-<iframe width="647" height="372" src="https://www.youtube.com/embed/k-rWB1jOt9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k-rWB1jOt9s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 One time I was in the rabbit hole of YouTube and [THIS VIDEO](https://www.youtube.com/watch?v=k-rWB1jOt9s) was recommended to me, it was about the **sense of self **in human babies, after watching the video a similar question popped into my mind* “Can I develop a smart agent that is smart enough to have a sense of its body and has the ability to change its features to accomplish a certain task?”*
 
