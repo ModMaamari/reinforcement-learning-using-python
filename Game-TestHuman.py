@@ -171,8 +171,8 @@ class Environment:
         if action in [3,4]:
             self.player.change_width(action = action)                
         
-        # Move the wall one step (one step every WALL_SPEED frames):
-        if self.frames_counter % self.WALL_SPEED == 0:
+        # Move the wall one step (one step every MOVE_WALL_EVERY frames):
+        if self.frames_counter % self.MOVE_WALL_EVERY == 0:
             # move the wall one step
             self.walls[-1].move()
             # reset the frames counter
@@ -259,7 +259,7 @@ class Environment:
 # Make an environment object
 env            = Environment()
 # Change wall speed to 3 (one step every 3 frames)
-env.WALL_SPEED = 3
+env.MOVE_WALL_EVERY = 3
 
 # Initialize some variables 
 WINDOW          = pygame.display.set_mode((env.WINDOW_WIDTH, env.WINDOW_HEIGHT))
