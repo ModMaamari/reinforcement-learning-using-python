@@ -2,9 +2,9 @@
 
 ![](https://cdn-images-1.medium.com/max/2560/1*a9F8vOTfpDEM52eW5SSXAQ.jpeg)
 
-"Explanation of the game rules | The game played by a human\n",
-    ":-------------------------:|:-------------------------:\n",
-    "![](images/gifs/envExp.gif)  |  ![](images/gifs/EnvPlayed.gif)"
+Explanation of the game rules | The game played by a human
+:-------------------------:|:-------------------------:
+![](images/gifs/envExp.gif)  |  ![](images/gifs/EnvPlayed.gif)
 
 In this tutorial series, we are going through every step of building an expert Reinforcement Learning (RL) agent that is capable of playing games.
 
